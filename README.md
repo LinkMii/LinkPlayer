@@ -5,4 +5,5 @@ NOTE: Be Careful about publicly hosting this you may run into copyright
 Can i fork this? - Yup this is meant to be a self hosting thing (at least for awhile)
 
 Credits: Cooler01 - Assets redfire - Developer
-Thank # YOU for making this possable
+
+Thank YOU for making this possable
