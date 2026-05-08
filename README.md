@@ -4,6 +4,6 @@ We may be self host for awhile but rest assured we will make a public release (a
 NOTE: Be Careful about publicly hosting this you may run into copyright
 Can i fork this? - Yup this is meant to be a self hosting thing (at least for awhile)
 
-Credits: Cooler01 - Assets redfire - Developer
+Credits: Cooler01 - Assets Redfire - Developer
 
 Thank YOU for making this possable
